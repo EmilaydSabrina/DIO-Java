@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch HistoricoAcademico",
             "request": "launch",
+            "mainClass": "estu.emilayd.primeirasemana.HistoricoAcademico",
+            "projectName": "java-anatomia-classes_e25f8947"
+        },
+        {
+            "type": "java",
+            "name": "Launch HistoricoAcademico",
+            "request": "launch",
             "mainClass": "HistoricoAcademico",
             "projectName": "java-anatomia-classes_e25f8947"
         },
