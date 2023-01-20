@@ -1,6 +1,4 @@
-
 public class Quadrilatero {
-
     public static double area(double lado) {
 
         return lado * lado;
@@ -25,5 +23,4 @@ public class Quadrilatero {
     public static double abc() {
         return 1.6;
     }
-
 }
